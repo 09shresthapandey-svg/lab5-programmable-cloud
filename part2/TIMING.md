@@ -2,6 +2,6 @@
 
 | Instance | Seconds |
 |---|---|
-| flask-clone-1 | 14.65 |
-| flask-clone-2 | 11.11 |
-| flask-clone-3 | 14.89 |
+| flask-clone-1 | 11.70 |
+| flask-clone-2 | 9.59 |
+| flask-clone-3 | 13.81 |
